@@ -1,4 +1,5 @@
 # hackathon
+
 A one day event to develop a pilot project to demonstrate concept of finding an expert based on proficiency in domain or technology
 
 -----------------------------------------------------------
@@ -9,3 +10,4 @@ Neo4J Graph database
 Elastic search engine
 
 -----------------------------------------------------------
+
